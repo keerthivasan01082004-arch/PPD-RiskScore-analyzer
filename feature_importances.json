@@ -1,0 +1,38 @@
+{
+    "LightGBM": {
+        "Timestamp": 0.0,
+        "Age": 0.0,
+        "Feeling sad or Tearful": 7278.0,
+        "Irritable towards baby & partner": 7654.0,
+        "Trouble sleeping at night": 4906.0,
+        "Problems concentrating or making decision": 4492.0,
+        "Overeating or loss of appetite": 2649.0,
+        "Feeling anxious": 4010.0,
+        "Feeling of guilt": 2927.0,
+        "Problems of bonding with baby": 7623.0
+    },
+    "XGBoost": {
+        "Timestamp": 0.0,
+        "Age": 0.0,
+        "Feeling sad or Tearful": 0.13287873566150665,
+        "Irritable towards baby & partner": 0.14222446084022522,
+        "Trouble sleeping at night": 0.12160393595695496,
+        "Problems concentrating or making decision": 0.12472903728485107,
+        "Overeating or loss of appetite": 0.10369011759757996,
+        "Feeling anxious": 0.12496460229158401,
+        "Feeling of guilt": 0.1364591270685196,
+        "Problems of bonding with baby": 0.11345004290342331
+    },
+    "CatBoost": {
+        "Timestamp": 0.0,
+        "Age": 0.0,
+        "Feeling sad or Tearful": 17.59082757861894,
+        "Irritable towards baby & partner": 19.039480333262677,
+        "Trouble sleeping at night": 11.505807383078652,
+        "Problems concentrating or making decision": 10.082358837113992,
+        "Overeating or loss of appetite": 6.100742986453465,
+        "Feeling anxious": 9.75261098799272,
+        "Feeling of guilt": 7.678384066818971,
+        "Problems of bonding with baby": 18.249787826660565
+    }
+}
