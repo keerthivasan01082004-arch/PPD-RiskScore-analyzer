@@ -1,10 +1,10 @@
-# 🧠 Rule-Based Chatbot for Postpartum Depression Risk Prediction
+# Comparative Evaluation of Tree-Based Algorithms for Postpartum Mental Health Risk
 
 An AI-powered postpartum mental health risk assessment system that combines Machine Learning models with a rule-based conversational chatbot to predict postpartum depression and suicide risk levels and provide personalized recommendations.
 
 This system uses Gradient Boosting models (LightGBM, CatBoost, XGBoost) trained on structured postpartum survey data and integrates them into an interactive chatbot interface for real-time screening and guidance.
 
-📄 Conference Paper: Rule-Based Chatbot for Postpartum Depression Risk Prediction  
+📄 Research Paper: Comparative Evaluation of Tree-Based Algorithms for Postpartum Mental Health Risk  
 Status: Presented | Under Publication
 
 ---
